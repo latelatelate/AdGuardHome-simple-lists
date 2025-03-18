@@ -1,3 +1,18 @@
+[Adblock Plus]
+!
+! Title: LATELATELATE's AdGuardHome Blacklist (Simplified)
+!
+! Description: Simple blocklist featuring tidbits not found in common lists. 
+!              Intended for supplemental use alongside popular lists.
+! 
+! Homepage: https://github.com/latelatelate/AdGuardHome-simple-lists/
+! License: https://github.com/latelatelate/AdGuardHome-simple-lists/blob/main/LICENSE
+! Issues: https://github.com/latelatelate/AdGuardHome-simple-lists/issues
+!
+! Expires: 7 days
+! Syntax: AdBlock
+!
+
 /(.*).digitaleast.mobi$/
 /(\.|^)acuityplatform\.com$/
 /(\.|^)ads\.twitch\.tv$/

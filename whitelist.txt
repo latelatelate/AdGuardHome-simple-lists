@@ -1,3 +1,18 @@
+[Adblock Plus]
+!
+! Title: LATELATELATE's AdGuardHome Whitelist (Simplified)
+!
+! Description: Unblocks common services and websites 
+!              at the sacrifice of some privacy.
+!
+! Homepage: https://github.com/latelatelate/AdGuardHome-simple-lists/
+! License: https://github.com/latelatelate/AdGuardHome-simple-lists/blob/main/LICENSE
+! Issues: https://github.com/latelatelate/AdGuardHome-simple-lists/issues
+!
+! Expires: 7 days
+! Syntax: AdBlock
+!
+
 # AARP
 @@aarpcloud.cdn.arkadiumhosted.com^
 @@arenacloud.cdn.arkadiumhosted.com^
