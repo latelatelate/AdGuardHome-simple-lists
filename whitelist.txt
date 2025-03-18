@@ -61,6 +61,7 @@
 @@ax.phobos.apple.com.edgesuite.net^
 @@captive.apple.com^
 @@cf.iadsdk.apple.com^
+@@chtbl.com^
 @@doh.dns.apple.com.v.aaplimg.com^
 @@doh.dns.apple.com^
 @@gdmf.apple.com.akadns.net^
@@ -72,6 +73,7 @@
 @@gsp-ssl.ls-apple.com.akadns.net^
 @@gsp-ssl.ls.apple.com^
 @@gsp1.apple.com^
+@@gspe11-ssl.ls.apple.com^
 @@gspe19-ssl.ls.apple.com^
 @@gspe35-ssl.ls.apple.com^
 @@gspe72-ssl.ls.apple.com^
@@ -100,6 +102,9 @@
 # Bills / Banking
 @@||ctg-apps.intuitcdn.net^
 @@||secure.chase.com^
+
+# Canon
+@@gdlp01.c-wss.com^
 
 # CDN
 @@akamaihd.net^
@@ -183,6 +188,7 @@
 @@store.akamai.steamstatic.com^
 @@store.cloudflare.steamstatic.com^
 @@store.steampowered.com^
+@@telemetry-console.api.playstation.com^
 @@video.cloudflare.steamstatic.com^
 @@voip.prod.poppy.t17service.com^
 
@@ -404,6 +410,7 @@
 @@m.stripe.com^
 @@m.weeklyad.target.com^
 @@media-cdn.costco.com^
+@@nexus.ensighten.com^
 @@pulsar.ebay.com^
 @@rover.ebay.at^
 @@rover.ebay.com^
@@ -450,7 +457,9 @@
 @@disney.api.edge.bamgrid.com^
 @@disney.content.edge.bamgrid.com^
 @@download.sonarr.tv^
+@@edge.api.brightcove.com^
 @@forums.sonarr.tv^
+@@graphql.api.dailymotion.com^
 @@guc3-spclient.spotify.com^
 @@hls.ted.com^
 @@http-fa-darwin.hulustream.com^
@@ -461,6 +470,7 @@
 @@license.adrise.tv^
 @@live-manifest-a.hulustream.com^
 @@live-mediashield-hulustream-com.akamaized.net^
+@@livepassdl.conviva.com^
 @@meta-db-worker02.pop.ric.plex.bz^
 @@meta.plex.bz^
 @@meta.plex.tv^
@@ -471,6 +481,7 @@
 @@nrdp52-appboot.netflix.com^
 @@o1.email.plex.tv^
 @@o2.sg0.plex.tv^
+@@om.cbsi.com^
 @@players.brightcove.net^
 @@players.pluto.tv^
 @@plex.tv^
@@ -504,6 +515,7 @@
 @@tvthemes.plexapp.com.cdn.cloudflare.net^
 @@tvthemes.plexapp.com^
 @@uapi.adrise.tv^
+@@vendorlist.dmcdn.net^
 @@video-edge-2d24d5.sjc05.hls.live-video.net^
 @@video-edge-eb3673.sjc05.hls.live-video.net^
 @@videos.vidible.tv^
@@ -511,7 +523,15 @@
 @@watch.graph.api.espn.com^
 @@www.plex.tv^
 @@z.cdn.turner.com^
-@@zee.cws.conviva.com^
+
+# Symantec
+@@s1.symcb.com^
+@@s2.dmcdn.net^
+@@s2.symcb.com^
+@@s3.symcb.com^
+@@s4.symcb.com^
+@@s5.symcb.com^
+@@sa.symcb.com^
 
 # Torrents
 @@coppersurfer.tk^
@@ -564,9 +584,7 @@
 @@assets.blz-contentstack.com^
 @@blocklist.addons.mozilla.org^
 @@booth.pm^
-@@chtbl.com^
 @@content-fox.uplynk.com^
-@@cws.conviva.com^
 @@d.la1-c1-ord.salesforceliveagent.com^
 @@d2c8v52ll5s99u.cloudfront.net^
 @@d2gatte9o95jao.cloudfront.net^
@@ -577,14 +595,12 @@
 @@driftt.com^
 @@dynupdate.no-ip.com^
 @@e.customeriomail.com^
-@@edge.api.brightcove.com^
 @@email-link.adtidy.org^
 @@email.mailgun.patreon.com^
 @@gallery.mailchimp.com^
 @@gapi.waze.com^
 @@gdlp01.c-wss.com^
 @@giphy.com^
-@@graphql.api.dailymotion.com^
 @@gravatar.com^
 @@i.ibb.co^
 @@images.blz-contentstack.com^
@@ -598,16 +614,13 @@
 @@justbeamit.com^
 @@keystone.mwbsys.com^
 @@la1-c1-ord.ord.r.salesforceliveagent.com^
-@@livepassdl.conviva.com^
 @@mailgun.org^
 @@mullvad.net^
 @@nexus.ensighten.com^
 @@no-ip.com^
 @@npr-news.streaming.adswizz.com^
-@@om.cbsi.com^
 @@one.one.one.one^
 @@pacific.picturedent.org^
-@@pings.conviva.com^
 @@placehold.it^
 @@placeholdit.imgix.net^
 @@post.spmailtechno.com^
@@ -616,13 +629,6 @@
 @@res.cloudinary.com^
 @@s.marketwatch.com^
 @@s.mzstatic.com^
-@@s1.symcb.com^
-@@s2.dmcdn.net^
-@@s2.symcb.com^
-@@s3.symcb.com^
-@@s4.symcb.com^
-@@s5.symcb.com^
-@@sa.symcb.com^
 @@salsify-ecdn.com^
 @@secure.avangate.com^
 @@secure.surveymonkey.com^
@@ -631,7 +637,7 @@
 @@smtp.mail.yahoo.com^
 @@tawk.to^
 @@tinyurl.com^
-@@vendorlist.dmcdn.net^
+@@tracking-protection.cdn.mozilla.net^
 @@verification.topdns.com^
 @@widget-cdn.rpxnow.com^
 @@widget.trustpilot.com^
