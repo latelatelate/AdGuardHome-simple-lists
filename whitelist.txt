@@ -150,6 +150,7 @@
 @@mparticle.map.fastly.net^
 @@ns1.dropbox.com^
 @@ns2.dropbox.com^
+@@one.one.one.one^
 @@raw.githubusercontent.com^
 @@s0.wp.com^
 @@s1.wp.com^
@@ -553,6 +554,7 @@
 @@explodie.org^
 @@ext.to^
 @@imgtraffic.com^
+@@ipv4.tracker.harry.lu^
 @@magnetdl.com^
 @@open.stealth.si^
 @@opentracker.i2p.rocks^
@@ -590,7 +592,6 @@
 @@v.w-x.co^
 
 # Unsorted / Misc
-@@||ca.audubon.org^
 @@api.ipify.org^
 @@api.ipstack.com^
 @@api.rlje.net^
@@ -625,7 +626,6 @@
 @@intercom.io^
 @@ipinfo.io^
 @@ipv4.am.i.mullvad.net^
-@@ipv4.tracker.harry.lu^
 @@justbeamit.com^
 @@keystone.mwbsys.com^
 @@la1-c1-ord.ord.r.salesforceliveagent.com^
@@ -634,7 +634,6 @@
 @@nexus.ensighten.com^
 @@no-ip.com^
 @@npr-news.streaming.adswizz.com^
-@@one.one.one.one^
 @@pacific.picturedent.org^
 @@placehold.it^
 @@placeholdit.imgix.net^
