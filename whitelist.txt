@@ -662,3 +662,4 @@
 @@www.deviantart.com^
 @@www.marthastewart.com^
 @@www.no-ip.com^
+@@wget-mirrors.uceprotect.net^
