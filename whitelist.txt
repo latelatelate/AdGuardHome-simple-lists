@@ -652,7 +652,9 @@
 @@tawk.to^
 @@tinyurl.com^
 @@tracking-protection.cdn.mozilla.net^
+@@uceprotect.net^
 @@verification.topdns.com^
+@@wget-mirrors.uceprotect.net^
 @@widget-cdn.rpxnow.com^
 @@widget.trustpilot.com^
 @@ws.audioscrobbler.com^
@@ -662,4 +664,4 @@
 @@www.deviantart.com^
 @@www.marthastewart.com^
 @@www.no-ip.com^
-@@wget-mirrors.uceprotect.net^
+@@www.uceprotect.net^
