@@ -247,6 +247,7 @@
 @@s2.youtube.com^
 @@storage.googleapis.com^
 @@video-stats.l.google.com^
+@@||voice.google.com^
 @@www.google.com^
 @@www.googleapis.com^
 @@www.youtube-nocookie.com^
@@ -652,9 +653,7 @@
 @@tawk.to^
 @@tinyurl.com^
 @@tracking-protection.cdn.mozilla.net^
-@@uceprotect.net^
 @@verification.topdns.com^
-@@wget-mirrors.uceprotect.net^
 @@widget-cdn.rpxnow.com^
 @@widget.trustpilot.com^
 @@ws.audioscrobbler.com^
@@ -664,4 +663,5 @@
 @@www.deviantart.com^
 @@www.marthastewart.com^
 @@www.no-ip.com^
-@@www.uceprotect.net^
+@@||www.cbsnews.com^$important
+@@||assets*.cbsnewsstatic.com^$important
