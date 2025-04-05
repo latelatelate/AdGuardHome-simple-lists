@@ -162,6 +162,10 @@
 @@wp.com^
 @@www.mullvad.net^
 
+# Email
+@@proton.me^
+@@tutanota.de^
+
 # Fox News
 @@a57.foxnews.com^
 @@api-2-0.spot.im^
@@ -212,6 +216,8 @@
 @@/(\.|^)googlevideo\.com$/
 @@/(\.|^)gvt2\.com$/
 @@/(\.|^)gvt3\.com$/
+@@||telephony.goog^
+@@||voice.google.com^
 @@0.client-channel.google.com^
 @@accounts.google.com^
 @@appsbackup-pa.clients6.google.com^
@@ -247,7 +253,6 @@
 @@s2.youtube.com^
 @@storage.googleapis.com^
 @@video-stats.l.google.com^
-@@||voice.google.com^
 @@www.google.com^
 @@www.googleapis.com^
 @@www.youtube-nocookie.com^
@@ -255,6 +260,16 @@
 @@youtube-nocookie.com^
 @@youtubei.googleapis.com^
 @@yt3.ggpht.com^
+
+# Local
+@@||*.apple^
+@@||*.arpa^
+@@||*.home^
+@@||*.internal^
+@@||*.intranet^
+@@||*.local^
+@@||*.localdomain^
+@@||*.localhost^
 
 # Meta
 @@0-edge-chat.facebook.com^
@@ -593,12 +608,14 @@
 @@v.w-x.co^
 
 # Unsorted / Misc
+@@adblock.ee^
 @@api.ipify.org^
 @@api.ipstack.com^
 @@api.rlje.net^
 @@api2.branch.io^
 @@aspnetcdn.com^
 @@assets.blz-contentstack.com^
+@@assets*.cbsnewsstatic.com^
 @@blocklist.addons.mozilla.org^
 @@booth.pm^
 @@content-fox.uplynk.com^
@@ -620,6 +637,7 @@
 @@giphy.com^
 @@gravatar.com^
 @@i.ibb.co^
+@@id.me^
 @@images.blz-contentstack.com^
 @@imagesak.secureserver.net^
 @@imgix.net^
@@ -658,10 +676,9 @@
 @@widget.trustpilot.com^
 @@ws.audioscrobbler.com^
 @@www.bhg.com^
+@@www.cbsnews.com^
 @@www.croninity.com^
 @@www.dataplicity.com^
 @@www.deviantart.com^
 @@www.marthastewart.com^
 @@www.no-ip.com^
-@@||www.cbsnews.com^$important
-@@||assets*.cbsnewsstatic.com^$important
