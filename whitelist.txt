@@ -66,6 +66,7 @@
 @@connectivitycheck.gstatic.com^
 
 # Apple
+@@||*.apple^
 @@appldnld.apple.com.akadns.net^
 @@appldnld.apple.com^
 @@appleid.apple.com.akadns.net^
@@ -159,6 +160,7 @@
 @@t1-3.p-cdn.us^
 @@t1-4.p-cdn.us^
 @@t1-5.p-cdn.us^
+@@vjs.zencdn.net^
 @@wp.com^
 @@www.mullvad.net^
 
@@ -201,6 +203,7 @@
 @@steamcdn-a.akamaihd.net^
 @@steamcommunity-a.akamaihd.net^
 @@steamcommunity.com^
+@@steamdb.info^
 @@steamstore-a.akamaihd.net^
 @@steamusercontent-a.akamaihd.net^
 @@steamuserimages-a.akamaihd.net^
@@ -216,6 +219,8 @@
 @@/(\.|^)googlevideo\.com$/
 @@/(\.|^)gvt2\.com$/
 @@/(\.|^)gvt3\.com$/
+@@||b1.nel.goog^
+@@||pki.goog^
 @@||telephony.goog^
 @@||voice.google.com^
 @@0.client-channel.google.com^
@@ -262,7 +267,6 @@
 @@yt3.ggpht.com^
 
 # Local
-@@||*.apple^
 @@||*.arpa^
 @@||*.home^
 @@||*.internal^
@@ -338,6 +342,7 @@
 @@apps.skype.com^
 @@arc.msn.com^
 @@attestation.xboxlive.com^
+@@azure.status.microsoft^
 @@c.s-microsoft.com^
 @@cert.mgt.xboxlive.com^
 @@client-s.gateway.messenger.live.com^
@@ -618,6 +623,7 @@
 @@assets*.cbsnewsstatic.com^
 @@blocklist.addons.mozilla.org^
 @@booth.pm^
+@@bttr.im^
 @@content-fox.uplynk.com^
 @@d.la1-c1-ord.salesforceliveagent.com^
 @@d2c8v52ll5s99u.cloudfront.net^
@@ -631,6 +637,7 @@
 @@e.customeriomail.com^
 @@email-link.adtidy.org^
 @@email.mailgun.patreon.com^
+@@fcc.report^
 @@gallery.mailchimp.com^
 @@gapi.waze.com^
 @@gdlp01.c-wss.com^
@@ -659,6 +666,7 @@
 @@post.spmailtechno.com^
 @@postimg.cc^
 @@prod.dw.us.fdcnet.biz^
+@@proranktracker.com^
 @@res.cloudinary.com^
 @@s.marketwatch.com^
 @@s.mzstatic.com^
@@ -670,6 +678,7 @@
 @@smtp.mail.yahoo.com^
 @@tawk.to^
 @@tinyurl.com^
+@@tmo.report
 @@tracking-protection.cdn.mozilla.net^
 @@verification.topdns.com^
 @@widget-cdn.rpxnow.com^
