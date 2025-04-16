@@ -12,7 +12,7 @@
 ! Expires: 7 days
 ! Syntax: AdBlock
 !
-/\.[a-zA-Z0-9-]{4,}$/
+/^[^.]+\.[^.]{4,}$/
 /(^|\.)xn--.*\.|[^\x00-\x7F]/
 /(.*).digitaleast.mobi$/
 /(\.|^)acuityplatform\.com$/
