@@ -78,8 +78,6 @@
 @@captive.apple.com^
 @@cf.iadsdk.apple.com^
 @@chtbl.com^
-@@doh.dns.apple.com.v.aaplimg.com^
-@@doh.dns.apple.com^
 @@gdmf.apple.com.akadns.net^
 @@gdmf.apple.com^
 @@gs.apple.com.akadns.net^
