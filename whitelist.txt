@@ -389,6 +389,7 @@
 @@outlook.office365.com^
 @@pricelist.skype.com^
 @@products.office.com^
+@@res.public.onecdn.static.microsoft^
 @@s.gateway.messenger.live.com^
 @@settings-win.data.microsoft.com^
 @@sls.update.microsoft.com.akadns.net^
