@@ -614,10 +614,7 @@
 
 # Unsorted / Misc
 @@adblock.ee^
-@@api.ipify.org^
-@@api.ipstack.com^
 @@api.rlje.net^
-@@api2.branch.io^
 @@aspnetcdn.com^
 @@assets.blz-contentstack.com^
 @@assets*.cbsnewsstatic.com^
@@ -631,9 +628,6 @@
 @@dataplicity.com^
 @@deviantart.com^
 @@display.ugc.bazaarvoice.com^
-@@drift.com^
-@@driftt.com^
-@@dynupdate.no-ip.com^
 @@e.customeriomail.com^
 @@email-link.adtidy.org^
 @@email.mailgun.patreon.com^
@@ -651,16 +645,13 @@
 @@imgix.net^
 @@imgs.xkcd.com^
 @@intercom.io^
-@@ipinfo.io^
 @@ipv4.am.i.mullvad.net^
-@@justbeamit.com^
 @@keepass.info^
 @@keystone.mwbsys.com^
 @@la1-c1-ord.ord.r.salesforceliveagent.com^
 @@mailgun.org^
 @@mullvad.net^
 @@nexus.ensighten.com^
-@@no-ip.com^
 @@npr-news.streaming.adswizz.com^
 @@pacific.picturedent.org^
 @@placehold.it^
@@ -692,4 +683,3 @@
 @@www.dataplicity.com^
 @@www.deviantart.com^
 @@www.marthastewart.com^
-@@www.no-ip.com^
