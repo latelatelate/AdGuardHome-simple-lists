@@ -519,6 +519,7 @@
 @@o1.email.plex.tv^
 @@o2.sg0.plex.tv^
 @@om.cbsi.com^
+@@playback.media-streaming.soundcloud.cloud^
 @@players.brightcove.net^
 @@players.pluto.tv^
 @@plex.tv^
@@ -672,6 +673,7 @@
 @@tawk.to^
 @@tinyurl.com^
 @@tmo.report
+@@tmobile.com^
 @@tracking-protection.cdn.mozilla.net^
 @@verification.topdns.com^
 @@widget-cdn.rpxnow.com^
@@ -683,3 +685,4 @@
 @@www.dataplicity.com^
 @@www.deviantart.com^
 @@www.marthastewart.com^
+@@www.tmobile.com^
