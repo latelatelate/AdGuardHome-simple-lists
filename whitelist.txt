@@ -413,11 +413,6 @@ xkms.xboxlive.com
 xsts.auth.xboxlive.com
 
 # Reddit
-@@/(\.|^)redd\.it$/
-@@/(\.|^)reddit\.com$/
-@@/(\.|^)redgifs\.com$/
-@@/[a-z].thumbs.redditmedia.com/
-@@/[a-z]\.thumbs\.redditmedia\.com/
 reddit.map.fastly.net
 styles.redditmedia.com
 www.redditmedia.com
