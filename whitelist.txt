@@ -33,7 +33,6 @@ www.aliexpress.us
 # Amazon
 aca-livecards-service.amazon.com
 api.amazon.com
-api.amazon.com
 cognito-identity.us-east-1.amazonaws.com
 dcape-na.amazon.com
 det-ta-g7g.amazon.com
