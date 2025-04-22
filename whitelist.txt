@@ -172,6 +172,8 @@ api-2-0.spot.im
 dpm.demdex.net
 
 # Gaming
+@@||consent.vgw.marketing
+@@||globalpoker.com
 api.steampowered.com
 cache-cms-ext-us.battle.net
 click.discord.com
@@ -187,7 +189,6 @@ eulatracking-public-service-prod06.ol.epicgames.com
 events.gfe.nvidia.com
 exodus.desync.com
 gfwsl.geforce.com
-globalpoker.com
 ipv6check-http.steamcontent.com
 iris06-gold-ssl.gameloft.com
 lightstep.kaizen.nvidia.com
@@ -394,6 +395,7 @@ settings-win.data.microsoft.com
 sls.update.microsoft.com.akadns.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+th.bing.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tlu.dl.delivery.mp.microsoft.com
@@ -648,6 +650,7 @@ mailgun.org
 mullvad.net
 nexus.ensighten.com
 npr-news.streaming.adswizz.com
+ocsp.digicert.com
 pacific.picturedent.org
 placehold.it
 placeholdit.imgix.net
