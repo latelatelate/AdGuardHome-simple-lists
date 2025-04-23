@@ -51,6 +51,7 @@
 /^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
+/diproton-ads-[^\.]*\.hulu\.com\.akadns\.net/
 ||ac^
 ||ag^
 ||am^
