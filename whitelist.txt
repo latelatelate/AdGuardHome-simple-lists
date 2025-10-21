@@ -482,8 +482,6 @@ amd.cdn.turner.com
 api-global.netflix.com
 api-tv.spotify.com
 api.amazonalexa.com
-api.betterttv.net
-api.frankerfacez.com
 api.pluto.tv
 api.us-east-1.aiv-delivery.net
 api2.sr.roku.com
@@ -572,6 +570,7 @@ video-edge-2d24d5.sjc05.hls.live-video.net
 video-edge-eb3673.sjc05.hls.live-video.net
 videos.vidible.tv
 vidtech.cbsinteractive.com
+vortex-dual.hulu.com
 watch.graph.api.espn.com
 www.plex.tv
 z.cdn.turner.com
