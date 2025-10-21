@@ -32,7 +32,6 @@ www.aliexpress.us
 
 # Amazon
 aca-livecards-service.amazon.com
-api.amazon.com
 cognito-identity.us-east-1.amazonaws.com
 dcape-na.amazon.com
 det-ta-g7g.amazon.com
@@ -42,7 +41,6 @@ device-metrics-us.amazon.com
 firetvdeviceprofilemanagementservice-na.amazon.com
 fls-na.amazon.com
 ftv-smp.ntp-fireos.com
-ktpx.amazon.com
 mas-ext.amazon.com
 mas-ssr.amazon.com
 msh.amazon.com
@@ -215,7 +213,6 @@ voip.prod.poppy.t17service.com
 www.globalpoker.com
 
 # Google
-@@/(\.|^)googlevideo\.com$/
 @@/(\.|^)gvt2\.com$/
 @@/(\.|^)gvt3\.com$/
 @@||b1.nel.goog^
@@ -375,7 +372,6 @@ live.thunderbird.net
 login.live.com
 login.microsoftonline.com
 login.yahoo.com
-m.hotmail.com
 microsoftonline.com
 mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
@@ -420,7 +416,6 @@ xsts.auth.xboxlive.com
 reddit.map.fastly.net
 styles.redditmedia.com
 www.redditmedia.com
-www.redditstatic.com
 
 # Samsung
 fota-apis.samsungdm.com
@@ -479,13 +474,11 @@ app.plex.tv
 appboot.netflix.com
 apresolve.spotify.com
 apt.sonarr.tv
-arcus-uswest.amazon.com
 assets.hulu.com
 brightcove.net
 canvas.tubitv.com
 cdn-mobile.api.pluto.tv
 cdn.adrise.tv
-cdn.betterttv.net
 configs.ott.aetnd.com
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
@@ -503,7 +496,6 @@ hls.ted.com
 http-fa-darwin.hulustream.com
 http-va-darwin.hulustream.com
 i.cdn.turner.com
-images.pluto.tv
 img.vidible.tv
 license.adrise.tv
 live-manifest-a.hulustream.com
