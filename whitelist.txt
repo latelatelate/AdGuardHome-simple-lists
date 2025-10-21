@@ -168,6 +168,24 @@ tutanota.de
 a57.foxnews.com
 api-2-0.spot.im
 dpm.demdex.net
+images.spot.im
+
+# Gambling
+clubwptgold.com
+forumserver.twoplustwo.com
+games.ignitioncasino.eu
+games.ignitioncasino.fun
+games.ignitioncasino.ltd
+games.ignitioncasino.lat
+pkscb.ignitioncasino.eu
+services.ignitioncasino.eu
+www.clubwptgold.com
+www.globalpoker.com
+www.ignitioncasino.eu
+www.ignitionpoker.eu
+www.pokernews.com
+www.pokerstrategy.com
+www.twoplustwo.com
 
 # Gaming
 @@||consent.vgw.marketing
@@ -210,7 +228,6 @@ store.steampowered.com
 telemetry-console.api.playstation.com
 video.cloudflare.steamstatic.com
 voip.prod.poppy.t17service.com
-www.globalpoker.com
 
 # Google
 @@/(\.|^)gvt2\.com$/
@@ -218,6 +235,7 @@ www.globalpoker.com
 @@||b1.nel.goog^
 @@||pki.goog^
 @@||telephony.goog^
+@@||translate.goog^
 @@||voice.google.com^
 0.client-channel.google.com
 accounts.google.com
@@ -523,6 +541,7 @@ proxy.plex.tv
 proxy02.pop.ord.plex.bz
 pubsub.plex.bz
 pubsub.plex.tv
+rentfree.live
 s.adrise.tv
 s.cdn.turner.com
 secure.brightcove.com
@@ -611,6 +630,7 @@ v.w-x.co
 # Unsorted / Misc
 @@assets*.cbsnewsstatic.com^
 adblock.ee
+addr.tools
 api.rlje.net
 aspnetcdn.com
 assets.blz-contentstack.com
@@ -618,12 +638,15 @@ blocklist.addons.mozilla.org
 booth.pm
 bttr.im
 content-fox.uplynk.com
+crystalmark.info
 d.la1-c1-ord.salesforceliveagent.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 dataplicity.com
 deviantart.com
 display.ugc.bazaarvoice.com
+dnscheck.tools
+docs.frigate.video
 e.customeriomail.com
 email-link.adtidy.org
 email.mailgun.patreon.com
@@ -649,8 +672,12 @@ mailgun.org
 mullvad.net
 nexus.ensighten.com
 npr-news.streaming.adswizz.com
+ns-canada.topdns.com
+ns-uk.topdns.com
+ns-usa.topdns.com
 ocsp.digicert.com
 pacific.picturedent.org
+phishing.mailscanner.info
 placehold.it
 placeholdit.imgix.net
 post.spmailtechno.com
@@ -664,6 +691,8 @@ salsify-ecdn.com
 secure.avangate.com
 secure.surveymonkey.com
 secure.uptrillion.com
+sigfail.rsa2048-sha256.ippacket.stream
+sigok.rsa2048-sha256.ippacket.stream
 smart.link
 smtp.mail.yahoo.com
 tawk.to
@@ -673,6 +702,7 @@ tmo.report
 tmobile.com
 tracking-protection.cdn.mozilla.net
 verification.topdns.com
+vwts.ru
 widget-cdn.rpxnow.com
 widget.trustpilot.com
 ws.audioscrobbler.com

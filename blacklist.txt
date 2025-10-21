@@ -25,7 +25,6 @@
 /(\.|^)marketingcloudfx\.com$/
 /(\.|^)marketingcloudx\.com$/
 /(\.|^)metadsp\.co\.uk$/
-/(\.|^)msh\.amazon$/
 /(\.|^)openx\.net$/
 /(\.|^)scorecardresearch\.com$/
 /(\.|^)sentry\.io$/
