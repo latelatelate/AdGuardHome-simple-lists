@@ -206,8 +206,6 @@ kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 ktpx-eu.amazon.com
 marketingcloudx.com
-mas-ext-eu.amazon.com
-mas-sdk.amazon.com
 ndns.233py.com
 ns1.dnsprivacy.at
 ns2.dnsprivacy.at
