@@ -395,6 +395,7 @@ mobile.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
 msedge.api.cdp.microsoft.com
 msftncsi.com
+nam.fxgateway.svc.cloud.microsoft
 nexusrules.officeapps.live.com
 notify.xboxlive.com
 office.com
