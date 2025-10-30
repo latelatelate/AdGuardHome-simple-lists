@@ -140,6 +140,7 @@ dl.dropboxusercontent.com
 dropbox.com
 github.com
 github.io
+global.ketchcdn.com
 jquery.com
 jsdelivr.net
 k.sni.global.fastly.net
@@ -169,6 +170,7 @@ a57.foxnews.com
 api-2-0.spot.im
 dpm.demdex.net
 images.spot.im
+www.spot.im
 
 # Gambling
 clubwptgold.com
