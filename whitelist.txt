@@ -235,6 +235,7 @@ voip.prod.poppy.t17service.com
 @@/(\.|^)gvt2\.com$/
 @@/(\.|^)gvt3\.com$/
 @@||b1.nel.goog^
+@@||google^
 @@||pki.goog^
 @@||telephony.goog^
 @@||translate.goog^
