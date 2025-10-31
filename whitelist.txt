@@ -512,6 +512,7 @@ disney.content.edge.bamgrid.com
 download.sonarr.tv
 edge.api.brightcove.com
 forums.sonarr.tv
+global-latency.plex.bz
 graphql.api.dailymotion.com
 guc3-spclient.spotify.com
 hls.ted.com
