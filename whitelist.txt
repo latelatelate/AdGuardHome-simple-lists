@@ -384,6 +384,7 @@ g.live.com
 geo-prod.do.dsp.mp.microsoft.com
 help.ui.xboxlive.com
 hotmail.com
+hrd.svc.cloud.microsoft
 i.s-microsoft.com
 ipv6.msftncsi.com
 licensing.mp.microsoft.com
@@ -412,6 +413,7 @@ pricelist.skype.com
 products.office.com
 res.public.onecdn.static.microsoft
 s.gateway.messenger.live.com
+searchapp.bundleassets.example
 settings-win.data.microsoft.com
 sls.update.microsoft.com.akadns.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
