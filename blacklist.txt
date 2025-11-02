@@ -31,7 +31,7 @@
 /(\.|^)sprig\.com$/
 /(\.|^)userleap\.com$/
 /(\.|^)vidazoo\.com$/
-/(^|\.)[^.]+\.[^.]{4,}$/
+!/(^|\.)[^.]+\.[^.]{4,}$/
 /(^|\.)xn--.*\.|[^\x00-\x7F]/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
@@ -112,7 +112,7 @@
 ||mask-h2.icloud.com^$dnsrewrite=NXDOMAIN
 ||mask.icloud.com^$dnsrewrite=NXDOMAIN
 ||mba^
-||me^
+!||me^
 ||men^
 ||ml^
 ||moe^
