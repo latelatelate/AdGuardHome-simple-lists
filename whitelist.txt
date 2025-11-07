@@ -695,6 +695,7 @@ s.marketwatch.com
 s.mzstatic.com
 salsify-ecdn.com
 secure.avangate.com
+secure.fanboy.co.nz
 secure.surveymonkey.com
 secure.uptrillion.com
 sigfail.rsa2048-sha256.ippacket.stream
