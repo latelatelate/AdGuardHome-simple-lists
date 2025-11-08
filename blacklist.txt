@@ -12,6 +12,8 @@
 ! Expires: 7 days
 ! Syntax: AdBlock
 !
+!/(^|\.)[^.]+\.[^.]{4,}$/
+!||me^
 /(.*).digitaleast.mobi$/
 /(\.|^)acuityplatform\.com$/
 /(\.|^)ads\.twitch\.tv$/
@@ -31,7 +33,6 @@
 /(\.|^)sprig\.com$/
 /(\.|^)userleap\.com$/
 /(\.|^)vidazoo\.com$/
-!/(^|\.)[^.]+\.[^.]{4,}$/
 /(^|\.)xn--.*\.|[^\x00-\x7F]/
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
@@ -108,11 +109,13 @@
 ||ltd^
 ||lu^
 ||lv^
+||mask-api.fe.apple-dns.net^$dnsrewrite=NXDOMAIN
 ||mask-api.icloud.com^$dnsrewrite=NXDOMAIN
 ||mask-h2.icloud.com^$dnsrewrite=NXDOMAIN
+||mask-t.apple-dns.net^$dnsrewrite=NXDOMAIN
+||mask.apple-dns.net^$dnsrewrite=NXDOMAIN
 ||mask.icloud.com^$dnsrewrite=NXDOMAIN
 ||mba^
-!||me^
 ||men^
 ||ml^
 ||moe^
