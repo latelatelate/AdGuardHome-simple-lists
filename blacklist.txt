@@ -109,7 +109,9 @@
 ||ltd^
 ||lu^
 ||lv^
+||mask-api.icloud.com^$dnsrewrite=NXDOMAIN
 ||mask-h2.icloud.com^$dnsrewrite=NXDOMAIN
+||mask.apple-dns.net^$dnsrewrite=NXDOMAIN
 ||mask.icloud.com^$dnsrewrite=NXDOMAIN
 ||mba^
 ||men^
@@ -150,6 +152,7 @@
 ||tz^
 ||ua^
 ||uno^
+||use-application-dns.net^$dnsrewrite=NXDOMAIN
 ||vc^
 ||vin^
 ||vip^
