@@ -109,9 +109,9 @@
 ||ltd^
 ||lu^
 ||lv^
-||mask-api.icloud.com^$dnsrewrite=NXDOMAIN
+!||mask-api.icloud.com^$dnsrewrite=NXDOMAIN
 ||mask-h2.icloud.com^$dnsrewrite=NXDOMAIN
-||mask.apple-dns.net^$dnsrewrite=NXDOMAIN
+!||mask.apple-dns.net^$dnsrewrite=NXDOMAIN
 ||mask.icloud.com^$dnsrewrite=NXDOMAIN
 ||mba^
 ||men^
