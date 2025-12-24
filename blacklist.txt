@@ -14,6 +14,8 @@
 !
 !/(^|\.)[^.]+\.[^.]{4,}$/
 !||me^
+!||mask-api.icloud.com^$dnsrewrite=NXDOMAIN
+!||mask.apple-dns.net^$dnsrewrite=NXDOMAIN
 /(.*).digitaleast.mobi$/
 /(\.|^)acuityplatform\.com$/
 /(\.|^)ads\.twitch\.tv$/
@@ -51,6 +53,8 @@
 /^stat(s|istics)?[0-9]*[_.-]/
 /diproton-ads-[^\.]*\.hulu\.com\.akadns\.net/
 ||ac^
+||ad.doubleclick.net^$important
+||adservice.google.*^$important
 ||ag^
 ||am^
 ||ax^
@@ -109,9 +113,7 @@
 ||ltd^
 ||lu^
 ||lv^
-!||mask-api.icloud.com^$dnsrewrite=NXDOMAIN
 ||mask-h2.icloud.com^$dnsrewrite=NXDOMAIN
-!||mask.apple-dns.net^$dnsrewrite=NXDOMAIN
 ||mask.icloud.com^$dnsrewrite=NXDOMAIN
 ||mba^
 ||men^
