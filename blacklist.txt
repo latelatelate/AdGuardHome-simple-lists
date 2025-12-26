@@ -160,13 +160,13 @@
 ||sbs^
 ||servverifcloud.com^
 ||sew^
-!||shop^
-!||site^
+||shop^
+||site^
 ||so^
 ||soy^
 ||srl^
 ||st^
-!||store^
+||store^
 ||su^
 ||sx^
 ||tax^
