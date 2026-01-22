@@ -83,7 +83,7 @@
 ||cx^
 ||dad^
 ||day^
-||de^
+!||de^
 ||diy^
 ||dog^
 ||doh.dns.apple.com^$dnsrewrite=NXDOMAIN
